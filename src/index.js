@@ -49,7 +49,7 @@ function Intro() {
 }
 
 function Avatar() {
-  return <img className='avatar' src="avatar.jpg" alt='My Avatar' />;
+  return <img className='avatar' src="photo.jpg" alt='My Avatar' />;
 }
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
